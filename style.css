@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+  font-style: italic;
+}
+h2 {
+  color: red;
+  font-style: italic;
+}
+h4 {
+  color: rgb(45, 78, 2);
+}
+li {
+  color: rgb(2, 108, 179);
+}
