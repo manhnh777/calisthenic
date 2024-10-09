@@ -6,8 +6,10 @@ h2 {
   color: red;
   font-style: italic;
 }
-h4 {
+h3,
+body {
   color: rgb(45, 78, 2);
+  text-align: center;
 }
 li {
   color: rgb(2, 108, 179);
